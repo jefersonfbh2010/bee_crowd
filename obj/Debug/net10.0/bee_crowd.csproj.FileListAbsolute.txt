@@ -1,0 +1,14 @@
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.AssemblyInfoInputs.cache
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.AssemblyInfo.cs
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\bin\Debug\net10.0\bee_crowd.exe
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\bin\Debug\net10.0\bee_crowd.deps.json
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\bin\Debug\net10.0\bee_crowd.runtimeconfig.json
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\bin\Debug\net10.0\bee_crowd.dll
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\bin\Debug\net10.0\bee_crowd.pdb
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.dll
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\refint\bee_crowd.dll
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.pdb
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.genruntimeconfig.cache
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\ref\bee_crowd.dll
