@@ -12,3 +12,4 @@ C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\refint\bee_crow
 C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.pdb
 C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.genruntimeconfig.cache
 C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\ref\bee_crowd.dll
+C:\Users\Jeferson_hochsche\Documents\bee_crowd\obj\Debug\net10.0\bee_crowd.sourcelink.json
