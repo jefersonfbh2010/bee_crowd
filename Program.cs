@@ -1,97 +1,38 @@
-int [] x = new int[10];
+using System; 
 
-for (int i = 0; i < 10; i++)
+class URI {
+
+    static void Main(string[] args) { 
+
+int[] N = new int[20];
+
+for (int i = 0; i < N.Length; i++)
 {
-    x[i] = int.Parse(Console.ReadLine());
+   N[i] =int.Parse(Console.ReadLine());
 }
 
-if (x[0]<=0 )
+ Console.WriteLine ($"N[0] = {N[19]}");
+ Console.WriteLine ($"N[1] = {N[18]}");
+ Console.WriteLine ($"N[2] = {N[17]}");
+ Console.WriteLine ($"N[3] = {N[16]}");
+ Console.WriteLine ($"N[4] = {N[15]}");
+ Console.WriteLine ($"N[5] = {N[14]}");
+ Console.WriteLine ($"N[6] = {N[13]}");
+ Console.WriteLine ($"N[7] = {N[12]}");
+ Console.WriteLine ($"N[8] = {N[11]}");
+ Console.WriteLine ($"N[9] = {N[10]}");
+ Console.WriteLine ($"N[10] = {N[9]}");
+ Console.WriteLine ($"N[11] = {N[8]}");
+ Console.WriteLine ($"N[12] = {N[7]}");
+ Console.WriteLine ($"N[13] = {N[6]}");
+ Console.WriteLine ($"N[14] = {N[5]}");
+ Console.WriteLine ($"N[15] = {N[4]}");
+ Console.WriteLine ($"N[16] = {N[3]}");
+ Console.WriteLine ($"N[17] = {N[2]}");
+ Console.WriteLine ($"N[18] = {N[1]}");
+ Console.WriteLine ($"N[19] = {N[0]}");
 
-{
-
-    x[0] = 1;
-    
     }
 
-     if (x[1] <= 0)
-{
+}
 
-    x[1] = 1;
-    
-    }
-
-     if (x[2] <= 0)
-{
-
-    x[2] = 1;
-    
-    }
-
- if (x[3] <= 0)
-{
-
-    x[3] = 1;
-    
-    }
-
-     if (x[4] <= 0)
-{
-
-    x[4] = 1;
-    
-    }
-
-     if (x[5] <= 0)
-{
-
-    x[5] = 1;
-    
-    }
-
-     if (x[6] <= 0)
-{
-
-    x[6] = 1;
-    
-    }
-
-     if (x[7] <= 0)
-{
-
-    x[7] = 1;
-    
-    }
-
-     if (x[8] <= 0)
-{
-
-    x[8] = 1;
-    
-    }
-
-     if (x[9] <= 0)
-{
-
-    x[9] = 1;
-    
-    }
-
-Console.WriteLine ($"X[0] = {x[0]}");
-
-Console.WriteLine ($"X[1] = {x[1]}");
-
-Console.WriteLine ($"X[2] = {x[2]}");
-
-Console.WriteLine ($"X[3] = {x[3]}");
-
-Console.WriteLine ($"X[4] = {x[4]}");
-
-Console.WriteLine ($"X[5] = {x[5]}");
-
-Console.WriteLine ($"X[6] = {x[6]}");
-
-Console.WriteLine ($"X[7] = {x[7]}");
-
-Console.WriteLine ($"X[8] = {x[8]}");
-
-Console.WriteLine ($"X[9] = {x[9]}");
